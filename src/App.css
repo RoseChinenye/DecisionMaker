@@ -1,0 +1,36 @@
+.title{
+  color:blue;
+  text-align: center;
+}
+
+h2{
+  margin-bottom: 4px;
+}
+
+span{
+  color:black;
+}
+
+p{
+  font-family:tekton pro;
+  font-size:25px;
+  margin-bottom:5px;
+}
+
+input{
+  padding:15px;
+  height:15px;
+  width:400px;
+  margin-bottom:10px;
+}
+
+
+
+button{
+  margin:15px;
+  color:white;
+  border-radius:10px;
+  height:45px;
+  width:100px;
+  background-color: blue;
+}
